@@ -189,7 +189,7 @@ public class GestorTareas {
 ---
 ### Instrucciones de compilación y ejecución.
 ```bash
-cd Evaluacion3_PDD
+cd eva_3_pdd
 javac -d bin `
 src/ListaDeTareas/src/app/AppTareas.java `
 src/ListaDeTareas/src/app/Menu.java `
